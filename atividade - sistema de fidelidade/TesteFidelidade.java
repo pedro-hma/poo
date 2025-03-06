@@ -22,6 +22,10 @@ class Cliente {
     public String getNome(){
         return nome;
     }
+    public String getEmail() {
+        return email;
+    }
+    
     public void descontarPontos(int pontos){
         this.pontos-= pontos;
     }
