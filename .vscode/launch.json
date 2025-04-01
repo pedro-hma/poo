@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "colecoes3",
+            "request": "launch",
+            "mainClass": "colecoes3",
+            "projectName": "poo_aff1c92e"
+        },
+        {
+            "type": "java",
+            "name": "colecoes2",
+            "request": "launch",
+            "mainClass": "colecoes2",
+            "projectName": "poo_aff1c92e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
